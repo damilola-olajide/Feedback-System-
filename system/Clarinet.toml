@@ -1,0 +1,11 @@
+[project]
+name = "system"
+authors = []
+description = ""
+telemetry = true
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.feedback]
+path = "contracts/feedback.clar"
+depends_on = []
